@@ -1,0 +1,72 @@
+potentialCases:
+  class: File
+  path: replaceMe.csv
+inputModule1:
+  class: File
+  path: python/read-potential-cases.py
+inputModule2:
+  class: File
+  path: python/smoking-status-nonsmoker---primary.py
+inputModule3:
+  class: File
+  path: python/smoking-status-extobacco---primary.py
+inputModule4:
+  class: File
+  path: python/smoking-status-excigarette---primary.py
+inputModule5:
+  class: File
+  path: python/light-smoking-status---primary.py
+inputModule6:
+  class: File
+  path: python/moderate-smoking-status---primary.py
+inputModule7:
+  class: File
+  path: python/smoking-status-stopping---primary.py
+inputModule8:
+  class: File
+  path: python/unknown-smoking-status---primary.py
+inputModule9:
+  class: File
+  path: python/smoking-status-exsmoker---primary.py
+inputModule10:
+  class: File
+  path: python/smoking-status-trying---primary.py
+inputModule11:
+  class: File
+  path: python/smoking-status-waterpipe---primary.py
+inputModule12:
+  class: File
+  path: python/passive-smoking-status---primary.py
+inputModule13:
+  class: File
+  path: python/smoking-status-stopped---primary.py
+inputModule14:
+  class: File
+  path: python/smoking-status-restarted---primary.py
+inputModule15:
+  class: File
+  path: python/smoking-status-ceased---primary.py
+inputModule16:
+  class: File
+  path: python/smoking-status---primary.py
+inputModule17:
+  class: File
+  path: python/smoking-status-chewer---primary.py
+inputModule18:
+  class: File
+  path: python/total-smoking-status---primary.py
+inputModule19:
+  class: File
+  path: python/smoking-status-cessation---primary.py
+inputModule20:
+  class: File
+  path: python/annual-smoking-status---primary.py
+inputModule21:
+  class: File
+  path: python/smoking---primary.py
+inputModule22:
+  class: File
+  path: python/smoking-status-snuff---primary.py
+inputModule23:
+  class: File
+  path: python/output-cases.py
